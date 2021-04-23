@@ -10,4 +10,5 @@ puts "Where would you like to go?"
 input = gets.strip
 input_to_index = gets.strip
 move
-puts display_board
+display_board
+puts board
