@@ -8,13 +8,16 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index
-  puts '1'.to_i = [0]
-  puts '2'.to_i = [1]
-  puts '3'.to_i = [2]
-  puts '4'.to_i = [3]
-  puts '5'.to_i = [4]
-  puts '6'.to_i = [5]
-  puts '7'.to_i = [6]
-  puts '8'.to_i = [7]
-  puts '9'.to_i = [8]
+  '1'.to_i = [0]
+  '2'.to_i = [1]
+  '3'.to_i = [2]
+  '4'.to_i = [3]
+  '5'.to_i = [4]
+  '6'.to_i = [5]
+  '7'.to_i = [6]
+  '8'.to_i = [7]
+  '9'.to_i = [8]
 end
+
+def move
+  
