@@ -10,5 +10,5 @@ def input_to_index(input)
 end
 def move(board, input)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  "#{board[0]}" = X
-en
+  0 = "X"
+end
