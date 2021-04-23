@@ -14,4 +14,5 @@ end
 
 def move(board, input)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  puts "X"
 end
