@@ -18,5 +18,3 @@ def input_to_index
   '8'.to_i = [7]
   '9'.to_i = [8]
 end
-
-def move
