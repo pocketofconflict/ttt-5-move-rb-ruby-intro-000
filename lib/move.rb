@@ -13,4 +13,3 @@ end
 def move(board, input)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
-  
