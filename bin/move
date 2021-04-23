@@ -11,3 +11,4 @@ input = gets.strip
 input_to_index = gets.strip
 move
 display_board = board
+puts "Welcome to Tic Tac Toe!"
